@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Background Utama Soft/Clean -->
+    <color name="bg_main">#F8F9FA</color>
+    <color name="text_primary">#1A1D1E</color>
+    <color name="text_secondary">#6C757D</color>
+
+    <!-- Palette Warna Pastel Soft untuk Card Dashboard -->
+    <color name="card_santri_bg">#E3F2FD</color>     <!-- Soft Blue -->
+    <color name="card_kamar_bg">#FFF3E0</color>      <!-- Soft Orange -->
+    <color name="card_inventaris_bg">#E8F5E9</color> <!-- Soft Green -->
+    <color name="card_laporan_bg">#F3E5F5</color>    <!-- Soft Purple -->
+    <color name="card_kesehatan_bg">#FFEBEE</color>  <!-- Soft Red/Pink (Fitur Sakit) -->
+</resources>
